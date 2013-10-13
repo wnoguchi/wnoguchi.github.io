@@ -20,3 +20,10 @@ Hi, My name is Wataru Noguchi.
 Please visit following my profile page.
 
 * http://wnoguchi.github.io/
+
+## Web site architecture
+
+Would you like to know about this site theme?
+
+- [Bootstrap](http://getbootstrap.com/)
+- [Getting started · Bootstrap](http://getbootstrap.com/getting-started/)

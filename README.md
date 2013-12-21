@@ -1,11 +1,14 @@
-# wnoguchi.github.io
+wnoguchi.github.io
+=============================
 
-## What's this?
+What's this?
+-----------------------------
 
 github.io user pages.  
 My Profiles here also!
 
-## About Me
+About Me
+-----------------------------
 
 Hi, My name is Wataru Noguchi.
 
@@ -21,7 +24,8 @@ Please visit following my profile page.
 
 * http://wnoguchi.github.io/
 
-## Web site architecture
+Web site architecture
+-----------------------------
 
 Would you like to know about this site theme?
 
